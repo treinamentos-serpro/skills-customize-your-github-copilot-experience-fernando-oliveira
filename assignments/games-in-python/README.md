@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Hangman
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Construa um jogo da forca em Python para praticar manipulação de strings, seleção aleatória, loops, condicionais e entrada de dados do usuário.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Set Up the Game
 
